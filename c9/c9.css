@@ -1,0 +1,12 @@
+.nav
+{
+    background-color: orange;
+    color: black;
+    display: inline;
+    justify-content: space-between;
+}
+.menu
+{
+    display:grid;
+    grid-template-columns: repeat(5,4fr);
+}
